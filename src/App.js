@@ -38,8 +38,6 @@ function App() {
     });
   };
 
-  console.log(getData());
-
   return (
     <div className="container">
       <Card variant="outlined">
